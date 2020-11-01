@@ -1,3 +1,50 @@
+# To CWF Fall 2020 viewers
+
+This repository contains the code for the web application to help Among Us players keep track of their games.
+
+To view the official repository, please click [here][official-repo].
+<br>
+To view the official website, please click [here][official-site].
+
+___
+
+The React application was built by:
+- [Kedyn Macedonio](https://github.com/Kedyn) (A.K.A. SykO)  
+- [Daniel Singer](https://github.com/chilblane) (A.K.A. chilblane)  
+- [Francis Tse](https://github.com/francistse23) (A.K.A. Furanki)  
+- [Charlie Chai](https://github.com/charlie-808)  
+- [Griffin Suparto](https://github.com/Viou)  
+- [Alena Choong](https://github.com/leeeennyy)
+
+For a full list of acknowledgments, please click [here](#authors-and-acknowledgment).
+
+___
+
+Below is a list of my contributions to this project:
+- Designed the earlier iterations of the UI elements for the application. 
+  - [Figma board][figma]
+  - [Github issue](https://github.com/Kedyn/fusliez-notes/issues/26)
+- Prototyped the color change menu and keyboard shortcuts. 
+  - [CodeSandbox](https://codesandbox.io/s/among-us-notepad-dys31)
+- Switched the build tool from Parcel to Webpack.
+
+___
+
+## Design mockups
+
+![Figma mockups](https://user-images.githubusercontent.com/39353049/97792549-0d88d080-1bb6-11eb-9373-739680655330.png)
+
+
+[official-repo]: https://github.com/Kedyn/fusliez-notes
+[official-site]: https://kedyn.github.io/fusliez-notes/
+[figma]: https://www.figma.com/file/P7DxmQWbqxtHt2VMxm7fOQ/Among-Us-Notepad?node-id=0%3A1
+
+
+*END OF CWF Fall 2020 description*
+___
+
+<br>
+
 # fusliez-notes
 
 A web to help keep track of among us game.
